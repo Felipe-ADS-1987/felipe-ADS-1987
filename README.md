@@ -1,5 +1,5 @@
 ## Olá! eu sou o Felipe Santos de Miranda👋
-📚 Estudante de Javascript  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+📚 Programador em Javascript Júnior <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <div align="center">
   <a href="https://github.com/Felipe-ADS-1987">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-ADS-1987&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
