@@ -1,4 +1,4 @@
-## Olá! eu sou o Felipe Santos de Miranda👋
+## Olá, sou Felipe Santos de Miranda👋
 📚 Programador em Javascript Júnior <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <div align="center">
   <a href="https://github.com/Felipe-ADS-1987">
